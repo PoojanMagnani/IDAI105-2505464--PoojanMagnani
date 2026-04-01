@@ -70,6 +70,9 @@ Deployed on Streamlit Cloud: [ADD YOUR LINK HERE]
 └── README.md
 ```
 
+Streamlit app link:- https://upload-zz9tjcnujmpryughziupuv.streamlit.app/
+
+
 ## References
 - Scikit-learn documentation: https://scikit-learn.org
 - MLxtend Apriori: http://rasbt.github.io/mlxtend/
