@@ -60,15 +60,6 @@ The dashboard contains 6 sections:
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Deployed on Streamlit Cloud: [ADD YOUR LINK HERE]
-
-## Repository Structure
-```
-├── app.py                    # Main Streamlit application
-├── ev_charging_dataset.csv   # Dataset
-├── requirements.txt          # Python dependencies
-└── README.md
-```
 
 Streamlit app link:- https://upload-zz9tjcnujmpryughziupuv.streamlit.app/
 
