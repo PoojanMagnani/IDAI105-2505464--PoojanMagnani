@@ -73,8 +73,3 @@ Deployed on Streamlit Cloud: [ADD YOUR LINK HERE]
 Streamlit app link:- https://upload-zz9tjcnujmpryughziupuv.streamlit.app/
 
 
-## References
-- Scikit-learn documentation: https://scikit-learn.org
-- MLxtend Apriori: http://rasbt.github.io/mlxtend/
-- Plotly Python: https://plotly.com/python/
-- Streamlit docs: https://docs.streamlit.io
